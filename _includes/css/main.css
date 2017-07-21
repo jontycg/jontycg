@@ -460,3 +460,9 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+.post-description {
+    text-align: left;
+}
+.center-text {
+    text-align: center;
+}

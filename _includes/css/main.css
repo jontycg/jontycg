@@ -19,7 +19,9 @@ li {
 p.small {
     font-size: 16px;
 }
-
+ul{
+    padding-left: 0px !important;
+}
 a,
 a:hover,
 a:focus,

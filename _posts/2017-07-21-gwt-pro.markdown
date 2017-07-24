@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2017-07-21
+img: gwt-pro.png
+alt: image-alt
+project-date: 2017
+client: Personal Project
+category: Web Development
+description: <a href = "http://gwtpro.com">GWT Pro</a> was developed by myself and managed by Lightbox product manager <a href = "https://www.linkedin.com/in/grosier/">George Rosier</a> who has helped to mentor me on the ins and outs of Agile software development. It was designed to help those in an Agile development environment quickly write and format acceptance criteria in the "Given, When, Then" format which can then be exported in either plain text, JSON or CSV format.<p>The site was built using Node.js with Express, Angular (2+) and Bootstrap. It was deployed using Digital Ocean with a free SSL certificate from Let's Encrypt.<p>Future updates will bring features such as user stories and scenarios which will be able to be linked to an acceptance criteria. We will also introduce the ability to login to the site and have your data saved online using MongoDB.<p>The repo for this project is listed privately on George's Github but I would be more than happy to show off any code in person. You can also of course check the site out for yourself at <a href = "http://gwtpro.com">http://gwtpro.com</a> (note that it does not currently support IE or Edge).
+
+---

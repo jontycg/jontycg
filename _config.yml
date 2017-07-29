@@ -56,3 +56,6 @@ credits: 'I whipped this site up using <a href = "https://jekyllrb.com/">Jekyll<
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+gems:
+  - jekyll-seo-tag
